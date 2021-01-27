@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-#include "postfix.h"
+#include "../include/postfix.h"
 
 int main() {
   return 0;
