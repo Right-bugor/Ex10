@@ -1,4 +1,4 @@
-// Copyright 2020 A.SHT
+// Copyright 2020 Bugrov
 #include <map>
 #include <set>
 #include "../include/postfix.h"
