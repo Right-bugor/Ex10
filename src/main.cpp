@@ -1,7 +1,6 @@
 // Copyright 2020 Bugrov
 #include <iostream>
 #include <string>
-
 #include "../include/postfix.h"
 
 int main() {
